@@ -47,7 +47,7 @@ $SelfDestroy = $false
 $DeleteKey = $true 
 
 # UI  
-$delay = 60  # Delay to show the UI 
+$delay = 1  # Delay to show the UI 
 
 # Define the DN of the certificate 
 $CertName = "DEMO RANSOMWARE"
